@@ -182,7 +182,7 @@ The simulator includes:
 
 ---
 
-## 📖 Research Paper
+[📄 Research Paper](https://github.com/rawanmekky024-bot/hajj-smart-bracelet/blob/main/Hajj_FINAL_Rawan_Mekky%202026%20Project%20Diploma%20.pdf)
 
 **"An AI-Powered Smart Bracelet System for Hajj Pilgrim Safety, Health Monitoring, and Crowd Management"**
 
